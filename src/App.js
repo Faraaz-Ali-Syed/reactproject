@@ -9,6 +9,6 @@ function App() {
       <ExpenseItem></ExpenseItem>
     </div>
   );
-}
+} 
 
 export default App;

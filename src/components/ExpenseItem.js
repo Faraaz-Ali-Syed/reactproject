@@ -14,6 +14,6 @@ const expenseAmount = 298.91;
         <div>{expenseAmount}</div>
       </div>
     </div>
-  );
+  ); 
 }
 export default ExpenseItem;
