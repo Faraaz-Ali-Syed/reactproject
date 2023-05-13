@@ -14,13 +14,8 @@ function App() {
   // );
 
   const addExpenseHandler = expense => {
-
-    const expenseData = {
-      ...Expenses,
-      expense
-  }
-  
-  console.log(expenseData);
+    
+    console.log(expense);
   }
 
   return (
